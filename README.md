@@ -13,8 +13,8 @@ This robot utilizes a combination of infrared and ultrasonic sensing to navigate
 |-------------|
 | Ibrahim Abdelmalek|
 | Ye Htet Kyaw |
-||
-||
+| Dodly Forbi|
+| Gabriel Tchakunte Tchouteng|
 ---
 
 ## Folders
